@@ -1,2 +1,3 @@
 nombre = "JuanCarlos"
-print("Hola "+nombre)
+apellido = "fernandez"
+print(f'Hola {nombre} {apellido}')
